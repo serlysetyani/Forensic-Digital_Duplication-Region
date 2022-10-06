@@ -1,12 +1,12 @@
 # Forensic-Digital_Duplication-Region
 "Tugas Kelompok"
 
-Anggota Kelompok & Kontribusi:
-- Serly Setyani (Slide, Code)
-- Jihan Nabilah Hakim (Code, Asset Gambar)
-- Muhammad Nur Ilyas (Code)
-- Muhammad Fikri Alfauzan (Tim hore)
-- Shinta Jitny Ayu Nugraha (Tim hore)
+Anggota Kelompok:
+- Serly Setyani
+- Jihan Nabilah Hakim 
+- Muhammad Nur Ilyas 
+- Muhammad Fikri Alfauzan 
+- Shinta Jitny Ayu Nugraha 
 
 Asset gambar original bisa diakses di: [Link Asset](https://drive.google.com/drive/u/1/folders/1aRbqkaQ20lpZ5THMzjmZSoakidjogjIX)
 
